@@ -1,4 +1,4 @@
-# DevOps with AWS - 86S
+# DevOps with AWS - 88S
 
 ### Socials
 
