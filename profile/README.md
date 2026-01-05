@@ -2,8 +2,6 @@
 
 ### Socials
 
-### Socials
-
 <table>
   <tr>
     <td><strong>Sivakumar Reddy – LinkedIn</strong></td>
