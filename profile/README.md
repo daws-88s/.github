@@ -2,7 +2,56 @@
 
 ### Socials
 
-<p align="left"><a href="https://www.linkedin.com/in/sivakumar-reddy-mettukuru" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </p>
+### Socials
+
+<table>
+  <tr>
+    <td><strong>Sivakumar Reddy – LinkedIn</strong></td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/sivakumar-reddy-mettukuru" target="_blank">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="24" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Sivakumar Reddy – Instagram</strong></td>
+    <td align="center">
+      <a href="https://www.instagram.com/sivakumar_reddy_m/" target="_blank">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="24" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>JoinDevOps – Instagram</strong></td>
+    <td align="center">
+      <a href="https://www.instagram.com/join.devops/" target="_blank">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="24" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>JoinDevOps – WhatsApp Support</strong></td>
+    <td align="center">
+        <a href="https://wa.me/916281937079" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg" width="24" />
+        </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>DevOps & Cloud with Siva – YouTube</strong></td>
+    <td align="center">
+      <a href="https://www.youtube.com/@DevOpsAndCloudWithSiva" target="_blank">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="24" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 
 #### Language: Telugu
 #### Trainer: Sivakumar Reddy
